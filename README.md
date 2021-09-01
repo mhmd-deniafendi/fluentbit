@@ -1,2 +1,2 @@
 # fluentbit
-Fluenbit in Kubernetes
+Install Fluenbit di kubernetes menggunakan helm
