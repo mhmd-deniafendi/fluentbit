@@ -1,6 +1,6 @@
 backend:
   type: es
   es:
-    host: https://endpoint_es
+    host: https://your_endpoint_es
     port: 443
     tls: "on"
